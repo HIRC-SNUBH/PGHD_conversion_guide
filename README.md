@@ -2,7 +2,7 @@ Proposal: Patient-Generated Health Data (PGHD) conventions for the OMOP Common D
 ===
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-본 가이드라인은 Patient-Generated Health DATA (PGHD)를 OMOP (Observation Medical Outcomes Partnership) CDM (Common Data Model) 으로 변환하기 위한 규칙 및 표준 용어 매핑 정보를 제공하기 위해 작성된 가이드 문서입니다.
+본 가이드라인은 Patient-Generated Health Data (PGHD)를 OMOP (Observation Medical Outcomes Partnership) CDM (Common Data Model) 으로 변환하기 위한 규칙 및 표준 용어 매핑 정보를 제공하기 위해 작성된 가이드 문서입니다.
 
 - 문서 종류 : CDM 변환 가이드라인
 - 버전 : V1.0, Mar 2021
