@@ -1,4 +1,4 @@
-Patient-Generated Health Data (PGHD) conventions for the OMOP Common Data Model
+Proposal: Patient-Generated Health Data (PGHD) conventions for the OMOP Common Data Model
 ===
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
